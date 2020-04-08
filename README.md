@@ -22,7 +22,7 @@ We will be generating random paths that has the same starting and ending point a
 * Generations [100, 200, 400]
 * Default Path [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-###Path Cost
+### Path Cost
 
 |       |  1   |   2 |  3  | 4|   5  | 6 |  7 |  8 |   9  |
 | ---  | --- |---  |----|---|----|----|---|----|----|
