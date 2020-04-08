@@ -10,8 +10,8 @@ We will be generating random paths that has the same starting and ending point a
 
 ## Example Paths
 
-1 -> 4 -> 6 -> 2 - > 8 -> 5 -> 3 -> 7-> 9 - > 1
-7 -> 8 -> 3 -> 5 -> 9 -> 2 -> 1 -> 4 -> 6 -> 7
+* 1 -> 4 -> 6 -> 2 - > 8 -> 5 -> 3 -> 7-> 9 - > 1
+* 7 -> 8 -> 3 -> 5 -> 9 -> 2 -> 1 -> 4 -> 6 -> 7
 
 ## Illegal Paths
 
